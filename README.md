@@ -1,1 +1,2 @@
-# Implementasi_Interpolasi_Polinom_Lagrange_Newton-Mario_Wibowo_R
+# Implementasi Interpolasi Polinom Lagrange & Newton
+Disusun menggunakan bahasa pemrograman Python oleh Mario Wibowo Royro
